@@ -11,6 +11,9 @@ const HEROES:Heroe[] = [
     { id: 18, nombre: 'Dr IQ' },
     { id: 19, nombre: 'Magma' },
     { id: 20, nombre: 'Tornado' }
+
+
+
 ];
 
 @Component({
